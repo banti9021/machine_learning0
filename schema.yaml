@@ -1,0 +1,15 @@
+COLUMNS:
+  Profession: object
+  Income: int64
+  Credit_card_number: int64
+  Expiry: object
+  Security_code: int64
+  Fraud: int64
+
+TARGET_COLUMN:
+  name: Fraud
+
+
+
+
+

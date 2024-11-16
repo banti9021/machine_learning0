@@ -1,0 +1,7 @@
+svm:
+  model:
+    type: SVC
+    gamma: 'auto'
+  parameters:
+    C: [1, 10, 20]
+    kernel: ['rbf', 'linear']
